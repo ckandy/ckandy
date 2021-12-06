@@ -1,3 +1,7 @@
+[![ckandy's 42 stats](https://badge42.herokuapp.com/api/stats/ckandy?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+
+
+
 - 👋 Hi, I’m @ckandy
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning C language and JavaScript
